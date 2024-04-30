@@ -48,8 +48,8 @@ Important:
 git --version
 git config user.name
 git config user.email
-python --version
-python -m pip install --upgrade pip wheel
+py --version
+py -m pip install --upgrade pip wheel
 ```
 
 ✔️ Make sure all commands complete successfully. 
