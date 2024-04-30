@@ -76,7 +76,7 @@ Important:
 - In Windows, you might try `py` instead of `python`.
 
 ```shell
-python util_about.py
+py util_about.py
 ```
 
 ✔️ Make sure your script runs successfully. 
@@ -106,19 +106,19 @@ Important:
 - Wait for each script to finish. Did you generate a new datafile? What is the name?
 
 ```shell
-python process_batch_A.py
+py process_batch_A.py
 ```
 
 ```shell
-python process_batch_B.py
+py process_batch_B.py
 ```
 
 ```shell
-python process_batch_C.py
+py process_batch_C.py
 ```
 
 ```shell
-python process_streaming_0.py
+py process_streaming_0.py
 ```
 
 ✔️ Make sure your scripts complete successfully. 
